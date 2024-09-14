@@ -19,6 +19,17 @@ funções, com dois metodos:
 - Minimização
 - Maximização
 
+para funções:
+
+- Unimodais
+Também connhecidas como parabolicas, e apenas uma moda.
+Otimo para algoritmos de busca locais.
+
+- Multimodais
+Apresenta diversas modas, tornando buscas locais mais dificeis,
+se não inefetifa.
+
+
 ### Busca em otimização
 
 Quando se fala sobre busca em optimização, a busca opera em 
