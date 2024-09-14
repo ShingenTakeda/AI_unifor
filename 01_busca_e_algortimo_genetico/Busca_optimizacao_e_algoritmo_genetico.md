@@ -46,10 +46,15 @@ Estes metodos incluem:
 
 ### Algoritmos
 
+- Hill Climbing
+- LRS
+- GRS
+
 ## Algoritmos geneticos
 
 - O que são algoritmos geneticos
 - Formalização
 - Algoritmos
 
+### O que são algoritmos geneticos
 
